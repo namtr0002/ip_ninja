@@ -1,1 +1,1 @@
-KhanhOnline1:0.tcp.ap.ngrok.io:16432:0:0
+wave chiến: 127.:14445:0:0
