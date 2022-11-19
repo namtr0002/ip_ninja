@@ -1,1 +1,1 @@
-Nro local:127.0.0.1:14444:0,0,0
+Lord:sv.nrolord.com:14445:0,0 
